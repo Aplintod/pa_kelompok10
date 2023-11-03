@@ -37,7 +37,7 @@ Pilihan "3" akan menampilkan menu top up saldo, user dapat memilih jumlah top up
 ![WhatsApp Image 2023-11-03 at 23 54 26](https://github.com/Aplintod/pa_kelompok10/assets/90161397/92ee12f2-e8a0-4c7b-9750-b908e960dc2c)
 Sebelum melakukan transaksi user dapat mengecek kembali apakah benar bahwa saldo nya sudah bertambah. Jika dipastikan sudah maka user dapat melanjutkan transaksinya
 
-![WhatsApp Image 2023-11-03 at 23 54 23](https://github.com/Aplintod/pa_kelompok10/assets/90161397/bbb84355-1fe7-43c8-9c18-cdbde336d26b)
+![WhatsApp Image 2023-11-03 at 23 54 23](https://github.com/Aplintod/pa_kelompok10/assets/90161397/71d9f4cb-f077-43a8-b9a0-d36b02e4838a)
 Ini adalah tampilan ketika user berhasil melakukan transaksi. Program akan menampilkan invoice yang berisi data buku yang disewa, saldo awal, saldo setelah transaksi (kembalian), dan user dapat melakukan transaksi lain dengan input "y" untuk melakukan transaksi yang lain dan "t" untuk kembali ke menu user
 
 ![WhatsApp Image 2023-11-03 at 23 54 23](https://github.com/Aplintod/pa_kelompok10/assets/90161397/ee8754b8-c109-475c-9967-1dbbd0d24782)
