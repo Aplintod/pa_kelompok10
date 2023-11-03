@@ -1,0 +1,44 @@
+[
+    [
+        "1NF",
+        "Tan Malaka: Biografi Singkat 1897-1949",
+        "Taufik Adi Susilo",
+        4,
+        5000
+    ],
+    [
+        "2NF",
+        "Rudy",
+        "Gina S. Noer",
+        4,
+        9000
+    ],
+    [
+        "3NF",
+        "Organisasi Informasi Perpustakaan",
+        "Wiji Suwarno",
+        4,
+        7500
+    ],
+    [
+        "4NF",
+        "Atom, Ion, dan Molekul",
+        "Ibnu Shohib",
+        4,
+        "8500"
+    ],
+    [
+        "5NF",
+        "Ki Hadjar Dewantara",
+        "Syaiful Hermawan",
+        4,
+        4000
+    ],
+    [
+        "6NF",
+        "The Power of Habit",
+        "Charles Duhigg",
+        1,
+        90000.0
+    ]
+]

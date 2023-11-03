@@ -1,0 +1,10 @@
+[
+    {
+        "namadmin" : "admin",
+        "pwadmin" : "admin123"
+    },
+    {
+        "namadmin" : "adminbaru",
+        "pwadmin" : "admin234"
+    }
+]
